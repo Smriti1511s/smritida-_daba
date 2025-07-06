@@ -1,2 +1,2 @@
-# smritida-_daba
+# smritida-daba
 This is my First Git Repository
